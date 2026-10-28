@@ -1,0 +1,27 @@
+{
+  "name": "Example formula",
+  "materials": [
+    {"material": "Bergamot Italy Es.Oil", "percentage": 25.2},
+    {"material": "Blood Orange Es.Oil", "percentage": 25.0},
+    {"material": "Patchouli Light Es.Oil", "percentage": 15.0},
+    {"material": "Cistus Ladaniferus Es.Oil", "percentage": 10.0},
+    {"material": "Black Pepper India Es.Oil", "percentage": 5.0},
+    {"material": "Clary Sage Es.Oil", "percentage": 5.0},
+    {"material": "Benjoui Sumatra Abs.", "percentage": 4.2},
+    {"material": "Cedarwood Virginian Es.Oil", "percentage": 2.8},
+    {"material": "Angelica Seeds Es.Oil.", "percentage": 2.0},
+    {"material": "Geranium Bourbon Es.Oil CT Guaiadiene", "percentage": 1.5},
+    {"material": "Clove Leaf Rectified Es.Oil", "percentage": 1.0},
+    {"material": "Cardamom Es.Oil CT India/ Sri Lanka", "percentage": 0.7},
+    {"material": "Laurel Leaf Es.Oil", "percentage": 0.7},
+    {"material": "Taget Madagascar Es.Oil", "percentage": 0.5},
+    {"material": "Pink Pepper CO2 Extract", "percentage": 0.4},
+    {"material": "Green Mandarin Italy Es. Oil", "percentage": 0.36},
+    {"material": "Lavender oil", "percentage": 0.24},
+    {"material": "Cypriol Es.Oil", "percentage": 0.2},
+    {"material": "Mediterranean Lemon Es. Oil", "percentage": 0.12},
+    {"material": "Rose Turkey Es.Oil", "percentage": 0.056},
+    {"material": "Neroli Es.Oil CT Egypt", "percentage": 0.032},
+    {"material": "Cinnamon Bark Es.Oil.", "percentage": 0.008}
+  ]
+}

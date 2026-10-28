@@ -1,0 +1,60 @@
+{
+    "materials": [
+        {
+            "material": "Amyris Es.Oil",
+            "percentage": 7.0717
+        },
+        {
+            "material": "Cocoa Butter Veg.",
+            "percentage": 2.0668
+        },
+        {
+            "material": "Patchoulol crystals Es. Oil (Healingwood)",
+            "percentage": 4.5675
+        },
+        {
+            "material": "Wheat germ Refined Veg.Oil",
+            "percentage": 7.1212
+        },
+        {
+            "material": "Rose Low ME Es.Oil.",
+            "percentage": 9.4105
+        },
+        {
+            "material": "Tea Tree Kenya Es.Oil",
+            "percentage": 2.9288
+        },
+        {
+            "material": "Tea Tree Australia/SouthAfrica Es.Oil",
+            "percentage": 0.1565
+        },
+        {
+            "material": "Distilled Lime Mexico Es.Oil.",
+            "percentage": 6.0343
+        },
+        {
+            "material": "Savory Es.Oil",
+            "percentage": 19.6415
+        },
+        {
+            "material": "Bay Leaf Oil Es.Oil",
+            "percentage": 15.4192
+        },
+        {
+            "material": "Rose Bulgaria Es.Oil",
+            "percentage": 0.8669
+        },
+        {
+            "material": "Pine Sylvestris Es.Oil",
+            "percentage": 10.6473
+        },
+        {
+            "material": "Origanum compactum Es.Oil",
+            "percentage": 1.3928
+        },
+        {
+            "material": "Lavandin Super Spain Es.Oil",
+            "percentage": 12.6751
+        }
+    ]
+}

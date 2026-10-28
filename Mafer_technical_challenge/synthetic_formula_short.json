@@ -1,0 +1,28 @@
+{
+    "materials": [
+        {
+            "material": "Frankincense Es.Oil CT Pinene",
+            "percentage": 5.3044
+        },
+        {
+            "material": "Grapefruit Es.Oil",
+            "percentage": 1.2109
+        },
+        {
+            "material": "Osmanthus Abs.",
+            "percentage": 74.3496
+        },
+        {
+            "material": "Onion Es.Oil",
+            "percentage": 2.5275
+        },
+        {
+            "material": "Marula Veg.Oil",
+            "percentage": 2.5028
+        },
+        {
+            "material": "Eucalyptus Radiata SouthAfrica Es.Oil",
+            "percentage": 14.1047
+        }
+    ]
+}

@@ -1,0 +1,1120 @@
+{
+    "compounds": [
+        {
+            "compound": "Carvacrol",
+            "percentage": 9.971
+        },
+        {
+            "compound": "Eugenol",
+            "percentage": 7.1244
+        },
+        {
+            "compound": "Alpha-Pinene",
+            "percentage": 6.4253
+        },
+        {
+            "compound": "Linalool",
+            "percentage": 5.5086
+        },
+        {
+            "compound": "Beta-Myrcene",
+            "percentage": 5.1992
+        },
+        {
+            "compound": "Patchoulol",
+            "percentage": 4.5058
+        },
+        {
+            "compound": "Linalyl Acetate",
+            "percentage": 4.6889
+        },
+        {
+            "compound": "Gamma-Terpinene",
+            "percentage": 4.4605
+        },
+        {
+            "compound": "Limonene",
+            "percentage": 4.1572
+        },
+        {
+            "compound": "Linoleic Acid - C18:2n6c",
+            "percentage": 4.2427
+        },
+        {
+            "compound": "Para-Cymene",
+            "percentage": 3.3285
+        },
+        {
+            "compound": "Citronellol",
+            "percentage": 3.0254
+        },
+        {
+            "compound": "Geraniol",
+            "percentage": 2.6762
+        },
+        {
+            "compound": "Oleic Acid - C18:1n9c",
+            "percentage": 1.7986
+        },
+        {
+            "compound": "Chavicol",
+            "percentage": 1.7606
+        },
+        {
+            "compound": "Palmitic Acid - C16:0",
+            "percentage": 1.6293
+        },
+        {
+            "compound": "Valerianol",
+            "percentage": 1.5231
+        },
+        {
+            "compound": "Beta-Pinene",
+            "percentage": 1.5159
+        },
+        {
+            "compound": "Terpinen-4-ol",
+            "percentage": 1.3144
+        },
+        {
+            "compound": "Delta-3-Carene",
+            "percentage": 1.2005
+        },
+        {
+            "compound": "1,8-Cineole",
+            "percentage": 1.1701
+        },
+        {
+            "compound": "Trans-Beta Caryophyllene",
+            "percentage": 1.0535
+        },
+        {
+            "compound": "Nerol",
+            "percentage": 1.0391
+        },
+        {
+            "compound": "Alpha-Terpinene",
+            "percentage": 0.895
+        },
+        {
+            "compound": "Alpha-Terpineol",
+            "percentage": 0.8921
+        },
+        {
+            "compound": "Nonadecane",
+            "percentage": 0.8015
+        },
+        {
+            "compound": "Alpha-Terpinolene",
+            "percentage": 0.7492
+        },
+        {
+            "compound": "Stearic Acid - C18:0",
+            "percentage": 0.7746
+        },
+        {
+            "compound": "7-Epi-Alpha-Eudesmol",
+            "percentage": 0.6784
+        },
+        {
+            "compound": "10-Epi-Gamma-Eudesmol",
+            "percentage": 0.6264
+        },
+        {
+            "compound": "Elemol",
+            "percentage": 0.6192
+        },
+        {
+            "compound": "Beta-Eudesmol",
+            "percentage": 0.6216
+        },
+        {
+            "compound": "Borneol",
+            "percentage": 0.5862
+        },
+        {
+            "compound": "Gamma-Eudesmol",
+            "percentage": 0.5056
+        },
+        {
+            "compound": "Thymol",
+            "percentage": 0.5214
+        },
+        {
+            "compound": "Alpha-Linolenic Acid - C18:3n3",
+            "percentage": 0.4019
+        },
+        {
+            "compound": "Trans-Beta Ocimene",
+            "percentage": 0.4072
+        },
+        {
+            "compound": "1-Octen-3-ol",
+            "percentage": 0.3591
+        },
+        {
+            "compound": "Beta-Bisabolene",
+            "percentage": 0.3472
+        },
+        {
+            "compound": "Alpha-Eudesmol",
+            "percentage": 0.3616
+        },
+        {
+            "compound": "Phenethyl Alcohol",
+            "percentage": 0.3414
+        },
+        {
+            "compound": "Alpha-Thujene",
+            "percentage": 0.3015
+        },
+        {
+            "compound": "Camphene",
+            "percentage": 0.2982
+        },
+        {
+            "compound": "Geranyl Acetate",
+            "percentage": 0.2637
+        },
+        {
+            "compound": "Beta-Phellandrene",
+            "percentage": 0.2516
+        },
+        {
+            "compound": "Heneicosane",
+            "percentage": 0.2448
+        },
+        {
+            "compound": "Eicosane",
+            "percentage": 0.2412
+        },
+        {
+            "compound": "Carvacrol Methyl Ether",
+            "percentage": 0.2521
+        },
+        {
+            "compound": "Beta-Sesquiphellandrene",
+            "percentage": 0.2326
+        },
+        {
+            "compound": "Cis-Beta-Ocimene",
+            "percentage": 0.1949
+        },
+        {
+            "compound": "Methyl Eugenol",
+            "percentage": 0.2033
+        },
+        {
+            "compound": "Delta-Cadinene",
+            "percentage": 0.1981
+        },
+        {
+            "compound": "3-Octanone",
+            "percentage": 0.1883
+        },
+        {
+            "compound": "Lavandulyl Acetate",
+            "percentage": 0.1855
+        },
+        {
+            "compound": "1,4-Cineole",
+            "percentage": 0.1836
+        },
+        {
+            "compound": "Eudesma-3,7(11)-diene",
+            "percentage": 0.1687
+        },
+        {
+            "compound": "Alpha-Phellandrene",
+            "percentage": 0.1597
+        },
+        {
+            "compound": "Trans-Beta Farnesene",
+            "percentage": 0.1285
+        },
+        {
+            "compound": "Ethanol",
+            "percentage": 0.1286
+        },
+        {
+            "compound": "(E,E) Alpha Farnesene",
+            "percentage": 0.1251
+        },
+        {
+            "compound": "Alpha-Zingiberene",
+            "percentage": 0.1195
+        },
+        {
+            "compound": "Bornyl Acetate",
+            "percentage": 0.1135
+        },
+        {
+            "compound": "Drimenol",
+            "percentage": 0.1072
+        },
+        {
+            "compound": "Germacrene D",
+            "percentage": 0.1057
+        },
+        {
+            "compound": "Caryophyllene Oxide (Isomer II)",
+            "percentage": 0.1051
+        },
+        {
+            "compound": "Heptadecane",
+            "percentage": 0.1053
+        },
+        {
+            "compound": "Alpha-Humulene",
+            "percentage": 0.0987
+        },
+        {
+            "compound": "Elaidic Acid - C18:1n9t",
+            "percentage": 0.0951
+        },
+        {
+            "compound": "Hexyl Butyrate",
+            "percentage": 0.0889
+        },
+        {
+            "compound": "Citronellyl Acetate",
+            "percentage": 0.0853
+        },
+        {
+            "compound": "Gadoleic Acid - C20:1n11",
+            "percentage": 0.0864
+        },
+        {
+            "compound": "Caryophyllene Oxide",
+            "percentage": 0.0888
+        },
+        {
+            "compound": "Ar-Curcumene",
+            "percentage": 0.0826
+        },
+        {
+            "compound": "Gamma-Terpineol",
+            "percentage": 0.0832
+        },
+        {
+            "compound": "Triacontane",
+            "percentage": 0.0723
+        },
+        {
+            "compound": "Alpha-Copaene",
+            "percentage": 0.0796
+        },
+        {
+            "compound": "Gamma-Muurolene",
+            "percentage": 0.0773
+        },
+        {
+            "compound": "Neryl Acetate",
+            "percentage": 0.075
+        },
+        {
+            "compound": "3-Octanol",
+            "percentage": 0.0722
+        },
+        {
+            "compound": "Gamma-Cadinene",
+            "percentage": 0.0674
+        },
+        {
+            "compound": "Terpinen-1-ol",
+            "percentage": 0.0689
+        },
+        {
+            "compound": "Aromadendrene",
+            "percentage": 0.0695
+        },
+        {
+            "compound": "Trans-Alpha Bergamotene",
+            "percentage": 0.0714
+        },
+        {
+            "compound": "Longifolene",
+            "percentage": 0.0664
+        },
+        {
+            "compound": "Geranial",
+            "percentage": 0.0653
+        },
+        {
+            "compound": "m-Camphorene",
+            "percentage": 0.0656
+        },
+        {
+            "compound": "4-epi-cis-Dihydroagarofuran",
+            "percentage": 0.065
+        },
+        {
+            "compound": "Unknown Sesquiterpene",
+            "percentage": 0.0623
+        },
+        {
+            "compound": "Elemol Acetate Isomer",
+            "percentage": 0.0602
+        },
+        {
+            "compound": "Trans-Nerolidol",
+            "percentage": 0.0606
+        },
+        {
+            "compound": "Coumarin",
+            "percentage": 0.0575
+        },
+        {
+            "compound": "3-Methyl 1-Pentanol",
+            "percentage": 0.0577
+        },
+        {
+            "compound": "n-Hexanol",
+            "percentage": 0.0527
+        },
+        {
+            "compound": "Amorpha-4,11-diene",
+            "percentage": 0.0528
+        },
+        {
+            "compound": "Gamma-Curcumene",
+            "percentage": 0.0527
+        },
+        {
+            "compound": "9-Nonadecene",
+            "percentage": 0.0504
+        },
+        {
+            "compound": "Sabinene",
+            "percentage": 0.0524
+        },
+        {
+            "compound": "Valencene",
+            "percentage": 0.0518
+        },
+        {
+            "compound": "Delta-Selinene",
+            "percentage": 0.0514
+        },
+        {
+            "compound": "Ledene",
+            "percentage": 0.0501
+        },
+        {
+            "compound": "Octadecane",
+            "percentage": 0.0482
+        },
+        {
+            "compound": "Fenchol<endo->",
+            "percentage": 0.0479
+        },
+        {
+            "compound": "Lavandulol",
+            "percentage": 0.0479
+        },
+        {
+            "compound": "Alloaromadendrene",
+            "percentage": 0.0471
+        },
+        {
+            "compound": "Aromadendrene Isomer",
+            "percentage": 0.0474
+        },
+        {
+            "compound": "Bicyclogermacrene",
+            "percentage": 0.0479
+        },
+        {
+            "compound": "Cis-Beta-Terpineol",
+            "percentage": 0.0493
+        },
+        {
+            "compound": "Unknown Sesquiterpenol",
+            "percentage": 0.0459
+        },
+        {
+            "compound": "Cis-Dihydroagarofuran",
+            "percentage": 0.0451
+        },
+        {
+            "compound": "Eremoligenol",
+            "percentage": 0.0446
+        },
+        {
+            "compound": "Neral",
+            "percentage": 0.0418
+        },
+        {
+            "compound": "Thymol Acetate",
+            "percentage": 0.0434
+        },
+        {
+            "compound": "Trans-Sabinene Hydrate",
+            "percentage": 0.0414
+        },
+        {
+            "compound": "Trans-Beta-Terpinyl Butanoate",
+            "percentage": 0.0443
+        },
+        {
+            "compound": "Tau-Cadinol",
+            "percentage": 0.0409
+        },
+        {
+            "compound": "Alpha-Agarofuran",
+            "percentage": 0.0402
+        },
+        {
+            "compound": "Rosifoliol",
+            "percentage": 0.0397
+        },
+        {
+            "compound": "Hexyl Acetate",
+            "percentage": 0.0381
+        },
+        {
+            "compound": "10-Epi-Beta-Acoradiene",
+            "percentage": 0.0404
+        },
+        {
+            "compound": "Guaiol",
+            "percentage": 0.0393
+        },
+        {
+            "compound": "Tricosane",
+            "percentage": 0.0387
+        },
+        {
+            "compound": "Unknown Monoterpenic Alcohol",
+            "percentage": 0.0366
+        },
+        {
+            "compound": "Alpha-Bisabolol",
+            "percentage": 0.0384
+        },
+        {
+            "compound": "Alpha-Selinene",
+            "percentage": 0.0348
+        },
+        {
+            "compound": "Carvone",
+            "percentage": 0.036
+        },
+        {
+            "compound": "(Z,Z)-Farnesol",
+            "percentage": 0.0361
+        },
+        {
+            "compound": "Unknown Ester",
+            "percentage": 0.0327
+        },
+        {
+            "compound": "Lavandulyl Isovalerate",
+            "percentage": 0.0326
+        },
+        {
+            "compound": "(E,E)-Farnesol",
+            "percentage": 0.0327
+        },
+        {
+            "compound": "1-Octen-3-yl Acetate",
+            "percentage": 0.032
+        },
+        {
+            "compound": "Para-Cymen-8-ol",
+            "percentage": 0.0304
+        },
+        {
+            "compound": "Arachidic Acid - C20:0",
+            "percentage": 0.0318
+        },
+        {
+            "compound": "Unknown Alcohol",
+            "percentage": 0.0302
+        },
+        {
+            "compound": "Alpha-Amorphene",
+            "percentage": 0.0314
+        },
+        {
+            "compound": "Cis-Linalool Oxide (Furanoid)",
+            "percentage": 0.0299
+        },
+        {
+            "compound": "Alpha-Panasinsen",
+            "percentage": 0.032
+        },
+        {
+            "compound": "Selinene Isomer",
+            "percentage": 0.0292
+        },
+        {
+            "compound": "Beta-Chamigrene",
+            "percentage": 0.0294
+        },
+        {
+            "compound": "Beta-Bourbonene",
+            "percentage": 0.0295
+        },
+        {
+            "compound": "Selina-4,11-diene",
+            "percentage": 0.0271
+        },
+        {
+            "compound": "Carvacryl Acetate",
+            "percentage": 0.0278
+        },
+        {
+            "compound": "Alpha-Muurolene",
+            "percentage": 0.0283
+        },
+        {
+            "compound": "Zingiberenol",
+            "percentage": 0.0257
+        },
+        {
+            "compound": "Alpha-Fenchene",
+            "percentage": 0.027
+        },
+        {
+            "compound": "Hexyl Tiglate",
+            "percentage": 0.027
+        },
+        {
+            "compound": "p-Camphorene",
+            "percentage": 0.027
+        },
+        {
+            "compound": "Trans-Calamenene",
+            "percentage": 0.0252
+        },
+        {
+            "compound": "Hinesol",
+            "percentage": 0.0232
+        },
+        {
+            "compound": "Cis-Rose Oxide",
+            "percentage": 0.0245
+        },
+        {
+            "compound": "Thymol Methyl Ether",
+            "percentage": 0.0239
+        },
+        {
+            "compound": "Trans-Cadina-1(6),4-diene",
+            "percentage": 0.0225
+        },
+        {
+            "compound": "Tricyclene",
+            "percentage": 0.0226
+        },
+        {
+            "compound": "Bisabolone",
+            "percentage": 0.0209
+        },
+        {
+            "compound": "Bisabolone Isomer",
+            "percentage": 0.0215
+        },
+        {
+            "compound": "Cis-Nerolidol",
+            "percentage": 0.0208
+        },
+        {
+            "compound": "Trans-Alpha Bisabolene",
+            "percentage": 0.0196
+        },
+        {
+            "compound": "Unknown Furan",
+            "percentage": 0.021
+        },
+        {
+            "compound": "Germacrene Isomer",
+            "percentage": 0.02
+        },
+        {
+            "compound": "Cycloisolongifolene",
+            "percentage": 0.0185
+        },
+        {
+            "compound": "Eremophilene",
+            "percentage": 0.0196
+        },
+        {
+            "compound": "Caryophyllene Oxide (Isomer I)",
+            "percentage": 0.0184
+        },
+        {
+            "compound": "n-Octanol",
+            "percentage": 0.0192
+        },
+        {
+            "compound": "Trans-Para-Menth-2-en-1-ol",
+            "percentage": 0.0192
+        },
+        {
+            "compound": "Hexyl Isobutyrate",
+            "percentage": 0.0174
+        },
+        {
+            "compound": "Estragole",
+            "percentage": 0.0181
+        },
+        {
+            "compound": "Palmitoleic Acid - C16:1",
+            "percentage": 0.0178
+        },
+        {
+            "compound": "Alpha-p-Dimethylstyrene",
+            "percentage": 0.0177
+        },
+        {
+            "compound": "Myrac aldehyde Peak 2",
+            "percentage": 0.018
+        },
+        {
+            "compound": "Alpha-Santalene",
+            "percentage": 0.0169
+        },
+        {
+            "compound": "Trans-Cadina-1,4-diene",
+            "percentage": 0.0166
+        },
+        {
+            "compound": "Alpha-Gurjunene",
+            "percentage": 0.0162
+        },
+        {
+            "compound": "Cis-3-Hexenol",
+            "percentage": 0.016
+        },
+        {
+            "compound": "Cis-Para-Menth-2-en-1-ol",
+            "percentage": 0.0163
+        },
+        {
+            "compound": "Trans-Linalool Oxide (Furanoid)",
+            "percentage": 0.0164
+        },
+        {
+            "compound": "Germacrene D-4-ol",
+            "percentage": 0.0162
+        },
+        {
+            "compound": "Beta-Copaene",
+            "percentage": 0.0163
+        },
+        {
+            "compound": "Para-Menthene",
+            "percentage": 0.0158
+        },
+        {
+            "compound": "Cryptone",
+            "percentage": 0.016
+        },
+        {
+            "compound": "Hexyl Isovalerate",
+            "percentage": 0.0152
+        },
+        {
+            "compound": "Trans-Beta-Terpineol",
+            "percentage": 0.0164
+        },
+        {
+            "compound": "Cuminaldehyde",
+            "percentage": 0.0153
+        },
+        {
+            "compound": "Terpinen-4-ol Acetate",
+            "percentage": 0.0143
+        },
+        {
+            "compound": "Trans-2-Hexenal",
+            "percentage": 0.0139
+        },
+        {
+            "compound": "4-Alpha-Hydroxy-Dihydro Agarofuran",
+            "percentage": 0.0144
+        },
+        {
+            "compound": "Galbanum Decatriene Isomer I",
+            "percentage": 0.0139
+        },
+        {
+            "compound": "Hexyl 2-Methyl Butyrate",
+            "percentage": 0.0143
+        },
+        {
+            "compound": "Carotol",
+            "percentage": 0.014
+        },
+        {
+            "compound": "Erucic Acid - C22:1",
+            "percentage": 0.0136
+        },
+        {
+            "compound": "Carvacrol Isomer",
+            "percentage": 0.0132
+        },
+        {
+            "compound": "Limetol",
+            "percentage": 0.0127
+        },
+        {
+            "compound": "Trans-Pinocarveol",
+            "percentage": 0.0128
+        },
+        {
+            "compound": "Globulol",
+            "percentage": 0.0133
+        },
+        {
+            "compound": "Bornyl Formate",
+            "percentage": 0.0128
+        },
+        {
+            "compound": "Trans-Beta Elemene",
+            "percentage": 0.0122
+        },
+        {
+            "compound": "1-Epi-Cubenol",
+            "percentage": 0.0126
+        },
+        {
+            "compound": "3,7-Dimethyloct-7-en-1-ol",
+            "percentage": 0.0124
+        },
+        {
+            "compound": "Ethyl Caprate",
+            "percentage": 0.012
+        },
+        {
+            "compound": "1,10-Di-Epi-Cubenol",
+            "percentage": 0.0123
+        },
+        {
+            "compound": "Trans-Muurola-3,5-diene",
+            "percentage": 0.0122
+        },
+        {
+            "compound": "Dehydrosabinene",
+            "percentage": 0.0116
+        },
+        {
+            "compound": "Gamma-Amorphene",
+            "percentage": 0.012
+        },
+        {
+            "compound": "2-Methyl-1-propenyl Benzene",
+            "percentage": 0.0117
+        },
+        {
+            "compound": "Thymol Isomer",
+            "percentage": 0.0118
+        },
+        {
+            "compound": "Cis-Muurola-4(14),5-diene",
+            "percentage": 0.0116
+        },
+        {
+            "compound": "Alpha-Cubebene",
+            "percentage": 0.0107
+        },
+        {
+            "compound": "Isoterpinolene",
+            "percentage": 0.0108
+        },
+        {
+            "compound": "Alpha-Cadinene",
+            "percentage": 0.0112
+        },
+        {
+            "compound": "Alpha-Ylangene",
+            "percentage": 0.0112
+        },
+        {
+            "compound": "p-Mentha-1,5-dien-8-ol",
+            "percentage": 0.0111
+        },
+        {
+            "compound": "Nervionic Acid - C24:1n9",
+            "percentage": 0.012
+        },
+        {
+            "compound": "Alpha-Longipinene",
+            "percentage": 0.0109
+        },
+        {
+            "compound": "Cis-Alpha-Bergamotene",
+            "percentage": 0.011
+        },
+        {
+            "compound": "Trans-Rose Oxide",
+            "percentage": 0.0109
+        },
+        {
+            "compound": "Isovaleraldehyde",
+            "percentage": 0.0106
+        },
+        {
+            "compound": "Sesquithujene",
+            "percentage": 0.0102
+        },
+        {
+            "compound": "Trans-3-Hexenol",
+            "percentage": 0.0104
+        },
+        {
+            "compound": "Tetracosane",
+            "percentage": 0.0098
+        },
+        {
+            "compound": "Acetone",
+            "percentage": 0.01
+        },
+        {
+            "compound": "Cis-11,14-Eicosadienoic Acid - C20:2",
+            "percentage": 0.0099
+        },
+        {
+            "compound": "Alpha-Cadinol",
+            "percentage": 0.01
+        },
+        {
+            "compound": "1-Nonen-3-ol",
+            "percentage": 0.0106
+        },
+        {
+            "compound": "Alpha-Guaiene",
+            "percentage": 0.0092
+        },
+        {
+            "compound": "Ethyl Laurate",
+            "percentage": 0.0098
+        },
+        {
+            "compound": "Pinol",
+            "percentage": 0.0088
+        },
+        {
+            "compound": "Alpha-Bulnesene",
+            "percentage": 0.0091
+        },
+        {
+            "compound": "Isogermacrene D",
+            "percentage": 0.0095
+        },
+        {
+            "compound": "Behenic Acid - C22:0",
+            "percentage": 0.009
+        },
+        {
+            "compound": "Unknown Monoterpene",
+            "percentage": 0.0086
+        },
+        {
+            "compound": "7-epi-sesquithujene",
+            "percentage": 0.0087
+        },
+        {
+            "compound": "Hexyl Propanoate",
+            "percentage": 0.0091
+        },
+        {
+            "compound": "Octan-3-yl Acetate",
+            "percentage": 0.0087
+        },
+        {
+            "compound": "Trans-Beta-Terpinyl Acetate",
+            "percentage": 0.009
+        },
+        {
+            "compound": "Viridiflorol",
+            "percentage": 0.0089
+        },
+        {
+            "compound": "Beta-Santalene",
+            "percentage": 0.0087
+        },
+        {
+            "compound": "Santene",
+            "percentage": 0.0091
+        },
+        {
+            "compound": "Cis-Isogeraniol",
+            "percentage": 0.0086
+        },
+        {
+            "compound": "Methyl Isovalerate",
+            "percentage": 0.0077
+        },
+        {
+            "compound": "Valerena-4,7(11)-diene",
+            "percentage": 0.008
+        },
+        {
+            "compound": "Benzaldehyde",
+            "percentage": 0.0078
+        },
+        {
+            "compound": "Cryptomeridiol",
+            "percentage": 0.008
+        },
+        {
+            "compound": "Chavicol acetate",
+            "percentage": 0.0076
+        },
+        {
+            "compound": "Myristic Acid - C14:0",
+            "percentage": 0.0077
+        },
+        {
+            "compound": "Daucene",
+            "percentage": 0.0078
+        },
+        {
+            "compound": "Geranyl Butyrate",
+            "percentage": 0.0078
+        },
+        {
+            "compound": "Octyl Acetate",
+            "percentage": 0.0074
+        },
+        {
+            "compound": "Margaric Acid - C17:0",
+            "percentage": 0.0076
+        },
+        {
+            "compound": "n-Decanol",
+            "percentage": 0.0075
+        },
+        {
+            "compound": "Trans-Isogeraniol",
+            "percentage": 0.0074
+        },
+        {
+            "compound": "n-Hexanal",
+            "percentage": 0.0077
+        },
+        {
+            "compound": "6-Methyl-5-Hepten-2-one",
+            "percentage": 0.0073
+        },
+        {
+            "compound": "Guaia-6,9-diene",
+            "percentage": 0.0068
+        },
+        {
+            "compound": "Lignoceric Acid - C24:0",
+            "percentage": 0.0071
+        },
+        {
+            "compound": "Hexanal Diethyl Acetal",
+            "percentage": 0.007
+        },
+        {
+            "compound": "1-Heptadecene",
+            "percentage": 0.0068
+        },
+        {
+            "compound": "Alpha Pinene Oxide II",
+            "percentage": 0.0061
+        },
+        {
+            "compound": "Camphene Isomer",
+            "percentage": 0.0063
+        },
+        {
+            "compound": "Eudesm-7(11)-en-4-ol",
+            "percentage": 0.0066
+        },
+        {
+            "compound": "Epoxyterpinolene",
+            "percentage": 0.0062
+        },
+        {
+            "compound": "Carota-5,8-diene",
+            "percentage": 0.0065
+        },
+        {
+            "compound": "Hotrienol",
+            "percentage": 0.0065
+        },
+        {
+            "compound": "Isodaucene",
+            "percentage": 0.0062
+        },
+        {
+            "compound": "Terpinyl Formate",
+            "percentage": 0.0064
+        },
+        {
+            "compound": "n-Nonanal",
+            "percentage": 0.0057
+        },
+        {
+            "compound": "m-Cymene",
+            "percentage": 0.0061
+        },
+        {
+            "compound": "Maaliene Isomer",
+            "percentage": 0.006
+        },
+        {
+            "compound": "Trans-Ocimenol",
+            "percentage": 0.0058
+        },
+        {
+            "compound": "Benzyl Benzoate",
+            "percentage": 0.0063
+        },
+        {
+            "compound": "Carvacrol Isomer II",
+            "percentage": 0.0057
+        },
+        {
+            "compound": "Citronellal",
+            "percentage": 0.0058
+        },
+        {
+            "compound": "Delta-Terpineol",
+            "percentage": 0.0058
+        },
+        {
+            "compound": "Epi-beta-Santalene",
+            "percentage": 0.0059
+        },
+        {
+            "compound": "Neo-Intermedeol",
+            "percentage": 0.0054
+        },
+        {
+            "compound": "Geranyl Formate",
+            "percentage": 0.0059
+        },
+        {
+            "compound": "Humulene Epoxide II",
+            "percentage": 0.0055
+        },
+        {
+            "compound": "Delta-Elemene",
+            "percentage": 0.0053
+        },
+        {
+            "compound": "Trans-Carane",
+            "percentage": 0.0054
+        },
+        {
+            "compound": "Gamma-Elemene",
+            "percentage": 0.0053
+        },
+        {
+            "compound": "Beta-Cedrene",
+            "percentage": 0.005
+        },
+        {
+            "compound": "Lavandulyl Isobutyrate",
+            "percentage": 0.0051
+        }
+    ]
+}
